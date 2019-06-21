@@ -1,55 +1,4 @@
-## Accountability
 
-_A cautionary tale_
-
-|>
-
-> Accountable;
-> 
-> If you are responsible for your own actions, you are accountable for them.
-
-_lack of accountability has corroded public respect for business and political leaders_
-
-|>
-
-RACI/RASCI/CAIRO
-
-Responsible: Someone that's responsible for execution. Reports to the person that is Accountable.
-Accountable: The person that has the end responsibility, and approves the result. In the end they need to be able to make the final judgement, and/or have veto rights. There is but one person Accountable.
-Supportive: Someone that is supportive to the result
-Consulted: Someone that is consulted before taking actions or decisions.
-Informed: Someone that is informed about decisions, progress, achieved results, etc. In contrast to Supportive and Consulted people, this is one-way communication.
-Out of the Loop: Someone that is explicitly not part of the process.
-
-|>
-
-Voorbeeldjes.
-Interactief stukje?
-
-Partial 2 <!-- .element: class="fragment" data-fragment-index="2" -->
-
-Partial 3 <!-- .element: class="fragment" data-fragment-index="3" -->
-
-<|
-
-08:52 - A Passenger calls emergency services telling the ship he is on, is sinking.
-
-> 119 Situation room.
-> Help me. The ship seems to be sinking.
-> A ship is sinking?
-> We are on the way to Jeju island, and the ferry tilted to one side.
-> Hold on. Is this the ship you are on or a ship next to you?
-> The ship I am on board.
-> What is the location of the ship?
-> I don't know the location.
-> You don't know? Don't you have the longitude and latitude on the GPS? What's the name of the ship?
-> Sewol, it is the Sewol.
-
-|>
-
-On the night of April 15th 2014, the _Sewol_ ferry departed Incheon port, South Korea.
-
-|>
 
 **476** passengers are on board, of which **325 students** on a school trip to Jeju island.
 
@@ -138,7 +87,7 @@ Only commanding rescue boat at the scene that kept on communicating with CoastGu
 > What? No one is on deck? Is there anyone that jumped in the water?
 > There is no one in the water.
 
-|> 
+|>
 
 09:47 - The Captain escapes to PatrolBoat123
 
@@ -176,7 +125,7 @@ More than half of the passengers are still on board.
 
 Ship tilts again
 
-|> 
+|>
 
 10:17 - 1 hour and 28 minutes after the ship initially started sinking
 
@@ -277,11 +226,50 @@ Captain defending his decision to tell people to stay put
 
 > The current was very high and the water was cold. Even if you got off the boat you would've been swept very far away even if you had worn a life jacket.
 
+> Expected time before exhaustion or unconsciousness at water temperatures 10–15.6° Celsius: 1-2 hours, survival time: 1-6 hours
+
 Captain wasn't on the bridge when the boat began to sink. Was in his bedroom.
 
 Third mate was at the helm and made the mistake of not slowing down and making a turn excessively.
 
-Captain still held responsible for failing to slow down in the narrow route and making the turn excessively.
+Captain still held accountable for failing to slow down in the narrow route and making the turn excessively.
+
+|>
+
+The 69-year-old captain that was commanding the ship during the disaster was brought in as a temporary replacement.
+
+Of the 33-man crew, 19 were irregular part-time workers.
+
+|>
+
+The regular captain's warnings landed on deaf ears:
+
+He had warned about the ship's decrease in stability.
+
+The ferry company threatened to fire him if he continued his objections. 
+
+He relayed his warnings through an official working for the Incheon Port Authority on 9 April 2014, which an official from Chonghaejin responded to by stating that "he would deal with anyone making the claims". 
+
+He also requested a repair for the malfunctioning steering gear on 1 April 2014, but this was not done.
+
+|>
+
+The Sewol was **grossly** overloaded with 2142 tons of cargo of the recommended 987 tons of cargo.
+It was also carrying merely 761 tons water ballast of the recommended 2030 tons.
+
+Two turns that were executed too fast caused the ship to take on water and tilt.
+
+|>
+
+> In one of their more damning findings, prosecutors say that so much money was being siphoned away from the ferry company to Mr. Yoo and his relatives that it was starved of funds and spent just $2 last year on safety training for the Sewol’s crew members. The money went to buy a paper copy of a certificate.
+
+> During the accident, the chaos caused by the lack of training was clear. Some crew members readily admitted in interviews after the disaster that they had no idea what to do during the emergency, had never done evacuation drills and made fatal mistakes like repeatedly telling passengers over the intercom to “stay inside and wait” as the ship began to sink, dragging scores of students down with it.
+
+Yoo Byung-eun is a piece of shit.
+
+|>
+
+> Of the 476 on board, 172 were rescued. Of the 325 students, only 75 survived, and only 3 of the 14 teachers. However, of 33 crew members, 22 were rescued.
 
 <|
 
