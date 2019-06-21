@@ -359,11 +359,7 @@ He should have searched first for the spot where the air was trapped, if any.
 
 But he just attached the air hose somewhere underwater, outside of the ship.
 
-Notes:
-
-They had to report a successful operation to the President,
-
-so they staged it.
+They had to report a successful operation to the President, so they staged it.
 
 The remaining part of the ferry sank as they pumped air into the sea.
 
