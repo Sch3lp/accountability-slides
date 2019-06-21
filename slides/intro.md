@@ -81,3 +81,5 @@ Notes:
 Broken gyroscope does not show the turn had been made.
 
 Turns again.
+
+Simulate boat turning to right with a straight vector, and rolls to port
