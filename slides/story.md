@@ -114,7 +114,7 @@ JVTS : Make a decision, now.
 
 `09:26`
 
-Foto van gekanteld schip.
+![](slides/img/tilted.png)
 
 |>
 
@@ -156,9 +156,9 @@ CG  : Is there anyone that jumped in the water?
 
 |>
 
-`09:47`
+`09:47` - The Captain escapes to Patrol Boat 123
 
-The Captain escapes to Patrol Boat 123
+![](slides/img/captain-escapes.png)
 
 More than **half** of the passengers are still on board.
 
@@ -182,11 +182,9 @@ MM: I see. Because the vice minister is visiting us, so...
 
 |>
 
-`10:09` - Student texts his parents
+`10:09` - Student texts their parents
 
-` Don't worry. I am wearing a lifejacket, holding a handrail. We're all sticking together here.`
-
-Photo student
+![](slides/img/lifejacket-quote.png)
 
 |>
 
@@ -201,21 +199,15 @@ PO: How many minutes until it gets there?
 
 |>
 
-Ship tilts again
-
-Photo ship
-
-|>
-
 `10:17` - 1 hour and 28 minutes after the ship initially started sinking
 
 Passengers are starting to get rescued.
 
 |>
 
-`10:18`
+`10:18` - Fishing boats in the vicinity are ordered to stay back over megaphone.
 
-Fishing boats in the vicinity are ordered to stay back over megaphone.
+![](slides/img/fishing-boats-warned.png)
 
 Notes:
 
@@ -229,7 +221,7 @@ At this point a bunch of students are swept away and fishing boats rush in to tr
 
 |>
 
-Photo van schip. Youtube @ +/-10:46
+![](slides/img/sinking-bow.png)
 
 |>
 
@@ -264,6 +256,10 @@ CG: People should be able to move to the deck
 CG: So any rescuer who goes down first in the dangerous 
     situation will be a hero later.
 ```
+
+|>
+
+![](slides/img/please-land-helicopter.png)
 
 |>
 
@@ -319,9 +315,17 @@ In a report meeting with reporters present
 
 |>
 
+![](slides/img/MS_Sewol_Track.jpg)
+
+|>
+
 `17th of April 2014`
 
 291 of 476 people still trapped
+
+|>
+
+![](slides/img/president-is-watching.png)
 
 Notes:
 
@@ -355,16 +359,13 @@ He should have searched first for the spot where the air was trapped, if any.
 
 But he just attached the air hose somewhere underwater, outside of the ship.
 
-|>
+Notes:
 
-Diver continues:
-
-```text
 They had to report a successful operation to the President,
-so they staged it. 
-The remaining part of the ferry started to sink 
-as they pumped air into the sea.
-```
+
+so they staged it.
+
+The remaining part of the ferry sank as they pumped air into the sea.
 
 |>
 
