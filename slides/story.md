@@ -399,7 +399,6 @@ However, of **33** crew members,
 * They did not know the safety procedures
 * The other 14 **did** know them
 * The coast guard sent one single boat
-* The fisher boats were told not to intervene
 
 |>
 
@@ -413,11 +412,7 @@ However, of **33** crew members,
 
 |>
 
-Would _holding each other accountable_ have helped? 
-
-How? <!-- .element: class="fragment" data-fragment-index="2" -->
-
-How not? <!-- .element: class="fragment" data-fragment-index="3" -->
+From the perspective of _holding each other accountable_, what went wrong?
 
 |>
 
