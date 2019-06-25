@@ -69,6 +69,10 @@ Sewol: We are able to stand by holding on to the wall.
 
 |>
 
+![](slides/img/students-smol.png)
+
+|>
+
 `09:23` - _Jindo VTS_ - _Sewol_
 
 ```text
