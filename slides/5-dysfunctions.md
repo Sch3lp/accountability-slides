@@ -8,6 +8,8 @@ that might hurt the team.
 
 Notes:
 
+From 5 dysfunctions
+
 From a place of respect.
 
 |>

@@ -12,13 +12,13 @@ Notes:
 
 5 months of modifications, later found to be based on illegal redesign.
 
-Modifications resulted in center of gravity being lifted upwards by 50cm and left-right imbalance.
-
-Was certified but based on falsified documents.
-
 Gross tonnage increased by 239 tons.
 
 Passenger capacity increased by 116, total 956.
+
+Modifications resulted in center of gravity being lifted upwards by 50cm and left-right imbalance.
+
+Was certified but based on falsified documents.
 
 |>
 
@@ -28,7 +28,7 @@ Passenger capacity increased by 116, total 956.
 
 Notes:
 
-Danwon Highschool 11th grade schooltrip to Jeju Island.
+Danwon Highschool 11th grade (17-18 yo) schooltrip to Jeju Island.
 
 13.5 hour trip
 

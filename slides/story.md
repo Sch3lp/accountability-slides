@@ -136,7 +136,7 @@ Of which 325 students and 14 teachers.
 
 |>
 
-`09:35`
+`09:35` (43 minutes after disaster call)
 
 Patrol Boat 123 arrives
 
@@ -308,6 +308,8 @@ P: They are locked in... I see...
 ```
 
 Notes:
+
+Park Geun-Hye
 
 The President had spent most of her morning in bed and is still not up to date.
 
