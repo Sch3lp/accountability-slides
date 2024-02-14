@@ -1,3 +1,21 @@
+`08:52`
+
+**Student** calls emergency services (119)
+
+```text
+Student: Help me. The ship seems to be sinking.  
+Student: We are on the way to Jeju Island, 
+         and the ferry tilted to one side.  
+119:     What is the location of the ship?  
+Student: I don't know the location.  
+119:     You don't know? Don't you have the longitude 
+         and latitude of the ship?  
+119:     What's the ship's name?  
+Student: Sewol. The ship is called the Sewol.  
+```
+
+|>
+
 `08:55` 
 
 Initial call between _Sewol_ and _Jeju Vessel Traffic Service Center_
@@ -83,6 +101,8 @@ Sewol: We are unable to broadcast.
 
 Notes:
 
+30' after sewol was told to start broadcasting 
+
 Broadcasting system failure
 
 Making communication to the passengers much harder
@@ -165,6 +185,10 @@ CG  : Is there anyone that jumped in the water?
 ![](slides/img/captain-escapes.png)
 
 More than **half** of the passengers are still on board.
+
+Notes:
+
+Roughly 1 hour after student called emergency services.
 
 |>
 
