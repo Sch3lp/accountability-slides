@@ -8,9 +8,11 @@ that might hurt the team.
 
 Notes:
 
+From a place of respect.
+
 From 5 dysfunctions
 
-From a place of respect.
+Inattention to results < avoidance of Accountability < lack of commitment < fear of conflict < absence of trust
 
 |>
 
